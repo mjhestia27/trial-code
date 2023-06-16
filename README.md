@@ -1,2 +1,2 @@
 # trial-code
-My first coding project on GitHub AE.
+My first (3rd repo) coding project on GitHub AE.
